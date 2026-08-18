@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer | Java & Spring Boot Specialist</h1>
+<h1 align="center">Java Full Stack Developer | Java, JavaScript, React.js, MySQL, System Design</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
